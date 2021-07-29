@@ -2,7 +2,8 @@ hi
 hello
 안녕하세요~
 
-new issues로 할 작업 미리 알리기 (fornt,back 라벨 선택) (작업 대기 중이기 때문에 wating 라벨)
+new issues로 할 작업 미리 알리기 (front,back 라벨 선택) (작업 대기 중이기 때문에 waiting 라벨)
+작업을 시작했다면 In Progress 라벨
 
 오픈된 이슈 번호에 맞게 branch 따기
 
